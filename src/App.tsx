@@ -21,7 +21,7 @@ declare global {
 const audios = [
   {
     name: "Hipnosis guiada",
-    file: "/audios/hipnosis_guiada.mp3",
+    file: "/audios/hipnosis_guiada.MP3",
     description: "Hipnosis guiada para relajación profunda",
   },
 
